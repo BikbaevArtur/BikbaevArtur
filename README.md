@@ -3,7 +3,7 @@
 
 <div id="badges">
   
-  <p>📫 Связаться со мной можно по:</p>
+  <p>Связаться со мной можно по:</p>
   
   <a href="https://t.me/BikbaevArtur">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
@@ -13,9 +13,9 @@
   </a>
 </div>
 
-:man_technologist: Обо мне :
+Обо мне :
 
-:hammer_and_wrench: Стек технологий :
+Стек технологий :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -28,4 +28,4 @@
   <img src="https://img.shields.io/badge/Spring_Security-Security-blue" alt="Spring Security" width="60" height="20"/>
 </div>
 
-:fire: Открыт для новых знакомств и предложений!
+Открыт для новых знакомств и предложений!
