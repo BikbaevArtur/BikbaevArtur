@@ -13,9 +13,10 @@
   </a>
 </div>
 
-Обо мне :
-
-Стек технологий :
+Обо мне : Привет! Я Java devloper, занимаюсь backend разработкой 2 года. В течении этого времени изучил: 
+_____________________________________________________________________________________________________________________
+JavaEE ,Spring Freamwork(Spring Boot, Data, JPA, Security), JDBC, MySQL/PostgreSQL, Kafka, Keycloak, OAuth 2.0, JUnit. 
+_____________________________________________________________________________________________________________________
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
