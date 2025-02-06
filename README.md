@@ -15,20 +15,10 @@
 <p></p>
 <p>Обо мне :</p>
 <p></p>
-Привет! Я Java devloper, занимаюсь backend разработкой 2 года. В течении этого времени изучил: 
+Привет! Я Java devloper, занимаюсь backend разработкой 2 года. Стэк : 
 _________________________________________________________________________________________________________________
 JavaEE, Spring Freamwork(Spring Boot, Data, JPA, Security), JDBC, MySQL/PostgreSQL, Kafka, Keycloak, OAuth 2.0, JUnit. 
 _________________________________________________________________________________________________________________
-<p></p>
-Участвую в разработке стартапа, для нетворкинга IT специалистов: 
-<p></p>
-<p>
-- Разработал c нуля промежуточный сервис для взаимодействия frontend и keycloak
-</p>
-<p></p>
-<p>
-- Вместе с коллегой разработал базу данных на Postgres и сервис для управления пользователями с использованием Spring Freamwork, Kafka, OAuth 2.0 
-</p>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
